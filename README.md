@@ -1,3 +1,3 @@
 # simulated_annealing
 
-Code for a research project about simulated annealing
+Code and data for a research project about simulated annealing
